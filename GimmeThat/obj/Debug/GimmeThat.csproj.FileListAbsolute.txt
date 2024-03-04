@@ -1,0 +1,14 @@
+C:\Users\diego.tellaroli.VPARATY\source\repos\GimmeThat\GimmeThat\bin\Debug\GimmeThat.exe.config
+C:\Users\diego.tellaroli.VPARATY\source\repos\GimmeThat\GimmeThat\bin\Debug\GimmeThat.exe
+C:\Users\diego.tellaroli.VPARATY\source\repos\GimmeThat\GimmeThat\bin\Debug\GimmeThat.pdb
+C:\Users\diego.tellaroli.VPARATY\source\repos\GimmeThat\GimmeThat\obj\Debug\GimmeThat.csproj.AssemblyReference.cache
+C:\Users\diego.tellaroli.VPARATY\source\repos\GimmeThat\GimmeThat\obj\Debug\GimmeThat.csproj.CoreCompileInputs.cache
+C:\Users\diego.tellaroli.VPARATY\source\repos\GimmeThat\GimmeThat\obj\Debug\GimmeThat.exe
+C:\Users\diego.tellaroli.VPARATY\source\repos\GimmeThat\GimmeThat\obj\Debug\GimmeThat.pdb
+C:\Users\diego.tellaroli.VPARATY\source\GimmeThat\GimmeThat\bin\Debug\GimmeThat.exe.config
+C:\Users\diego.tellaroli.VPARATY\source\GimmeThat\GimmeThat\bin\Debug\GimmeThat.exe
+C:\Users\diego.tellaroli.VPARATY\source\GimmeThat\GimmeThat\bin\Debug\GimmeThat.pdb
+C:\Users\diego.tellaroli.VPARATY\source\GimmeThat\GimmeThat\obj\Debug\GimmeThat.csproj.AssemblyReference.cache
+C:\Users\diego.tellaroli.VPARATY\source\GimmeThat\GimmeThat\obj\Debug\GimmeThat.csproj.CoreCompileInputs.cache
+C:\Users\diego.tellaroli.VPARATY\source\GimmeThat\GimmeThat\obj\Debug\GimmeThat.exe
+C:\Users\diego.tellaroli.VPARATY\source\GimmeThat\GimmeThat\obj\Debug\GimmeThat.pdb
